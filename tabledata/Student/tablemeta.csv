@@ -1,0 +1,5 @@
+Student,ID,java.lang.Integer,false,false
+Student,Name,java.lang.String,false,false
+Student,GPA,java.lang.Double,false,false
+Student,Age,java.lang.Integer,false,false
+Student,Year,java.lang.Integer,false,false
